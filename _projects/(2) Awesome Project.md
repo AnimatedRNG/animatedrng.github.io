@@ -7,13 +7,13 @@ description: OpenGL Compute shader implementation of Google's RAISR algorithm
 
 # rusty-raisr
 
-`rusty-raisr` is an implementation of Google's RAISR algorithm, implemented in OpenGL Compute shaders using the `glium` framework in Rust. I presented an [overview of the algorithm](/portfolYOU/assets/RAISR.pdf) while I was an intern at Nvidia.
+`rusty-raisr` is an implementation of Google's RAISR algorithm, implemented in OpenGL Compute shaders using the `glium` framework in Rust. I presented an [overview of the algorithm](/portfolio/assets/RAISR.pdf) while I was an intern at Nvidia.
 
-![preview](/portfolYOU/assets/comparison.png)
+![preview](/portfolio/assets/comparison.png)
 
 (from left to right -- nearest neighbor 2x, bicubic upscaling 2x, and RAISR 2x)
 
-Our [6.819/6.869 final project paper](/portfolYOU/assets/RAISR_kaza.pdf) describes the RAISR algorithm, some improvements that I made, and a comparison to SRGAN. Several optimizations significantly improved performance since then -- it now takes roughly 8 ms to upscale a 1080p image to 4K on a GTX 1070 (GP104). See the slides below.
+Our [6.819/6.869 final project paper](/portfolio/assets/RAISR_kaza.pdf) describes the RAISR algorithm, some improvements that I made, and a comparison to SRGAN. Several optimizations significantly improved performance since then -- it now takes roughly 8 ms to upscale a 1080p image to 4K on a GTX 1070 (GP104). See the slides below.
 
 [Github](https://github.com/animatedrng/rusty-raisr)
 

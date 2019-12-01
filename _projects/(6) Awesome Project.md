@@ -9,7 +9,7 @@ description: A tool for modeling, lighting, and animating signed distance functi
 <br>
 
 <video muted autoplay controls>
-    <source src="/portfolYOU/assets/demo_sdf_play_1.mp4" type="video/mp4">
+    <source src="/portfolio/assets/demo_sdf_play_1.mp4" type="video/mp4">
 </video>
 
 <br>
@@ -19,7 +19,7 @@ description: A tool for modeling, lighting, and animating signed distance functi
 <br>
 
 <video muted autoplay controls>
-    <source src="/portfolYOU/assets/demo_design_space_1.mp4" type="video/mp4">
+    <source src="/portfolio/assets/demo_design_space_1.mp4" type="video/mp4">
 </video>
 
 <br>
