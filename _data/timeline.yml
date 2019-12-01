@@ -1,0 +1,60 @@
+- title: Perception Engineer, isee ai
+  from: Fall 2019
+  to: Current
+  description: Working on a differentiable renderer for autonomous
+               vehicle LIDAR.
+
+- title: Research Assistant, MIT CSAIL Computer Graphics Group
+  from: Summer 2019
+  to: Fall 2019
+  description: Wrote the volumetric renderer using the differentiable
+               Halide programming language and in CUDA, demonstrating
+               an improvement in memory consumption of two orders of
+               magnitude over the state-of-the-art. Performed several
+               experiments which demonstrate the capabilities of the
+               renderer on inverse rendering tasks.
+
+- title: MEng Student, MIT CSAIL Computer Graphics Group
+  from: Fall 2018
+  to: Fall 2019
+  description: Designed a differentiable volumetric renderer of signed
+               distance functions. Experimented with hierarchical
+               distance function representations. Designed a method of
+               maintaining the Lipschitz continuity of a distance
+               field during gradient descent.
+
+- title: Tegra Graphics Intern, Nvidia Inc.
+  from: Summer 2018
+  to: Fall 2018
+  description: Gave a research presentation on Google AI's RAISR image
+               super-resolution algorithm, and wrote an efficient GPU
+               implementation of the algorithm. Wrote an upsampling
+               benchmark to evaluate the performance of different
+               image upscaling techniques and architectures. Ported
+               GLFW and WaveWorks to Android for the Nvidia Tegra platform.
+
+- title: SuperUROP Scholar, MIT CSAIL Computer Graphics Group
+  from: Fall 2017
+  to: Spring 2018
+  description: Designed a sound propagation technique which leveraged
+               the benefits of numerical methods and geometrical
+               acoustics. Implemented an efficient finite-difference
+               time domain (FDTD) solver with a perfectly matched layer
+               (PML).
+
+- title: Graphics Research Intern, Analytical Graphics Inc.
+  from: Summer 2017
+  to: Winter 2017
+  description: Adapted my previous work on point-cloud rendering to
+               the Cesium geospatial rendering engine. Improved upon
+               the reconstruction quality and performance described in
+               the original paper.
+
+- title: Undergraduate Resesarch Opportunity, MIT CSAIL Computer Graphics Group
+  from: Fall 2016
+  to: Spring 2017
+  description: Designed, and implemented an image processing pipeline
+               for infilling and cleaning Kinect depth maps. Also
+               implemented and improved a real-time point cloud surface
+               reconstruction technique. Supervised by Professor Fredo
+               Durand.
