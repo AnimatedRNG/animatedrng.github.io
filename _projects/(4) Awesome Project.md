@@ -1,7 +1,7 @@
 ---
 name: Screen-Space Point Cloud Surface Reconstruction
 tools: [WebGL, JavaScript]
-image: /portfolio/assets/cesium_church_ao.png
+image: /assets/cesium_church_ao.png
 description: A screen-space point cloud processing pipeline for handling occlusion and inpainting, contributed to the Cesium Project
 ---
 
@@ -12,5 +12,5 @@ I wrote an implementation of [this point cloud surface reconstruction algorithm]
 The ambient occlusion term was particularly useful for visualizing seemingly-invisible details in the point cloud, like creases in a painting. See the demo below.
 
 <video muted autoplay controls>
-    <source src="/portfolio/assets/demo_2.mp4" type="video/mp4">
+    <source src="/assets/demo_2.mp4" type="video/mp4">
 </video>

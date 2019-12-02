@@ -13,4 +13,4 @@ One of the challenges that faces differentiable rendering systems is handling vi
 differentiated. This “soft visibility” is inspired by volumetric
 rendering, and is facilitated by our decision to represent geometry within the scene as a signed distance function. We also present methods for performing gradient descent upon distance fields while preserving Lipschitz continuity. Unlike most differentiable mesh-based renderers, our renderer can optimize between geometry of different homeomorphism classes in a variety of image-based shape fitting tasks.
 
-Read more about our results [here](/portfolio/assets/thesis.pdf).
+Read more about our results [here](/assets/thesis.pdf).
